@@ -3,8 +3,6 @@
 An expense management tool for the command-line. Using it, you can track your
 expenses across days, weeks, months and even years - without ever leaving the terminal.
 
-This program was originally written as the first assignment in the *Introduction to Programming Fundamentals* module of my undergraduate Computing degree.
-
 ## Installation
 Simply clone the repo into a directory.
 
